@@ -2,4 +2,6 @@
 
 KiCad project file and gerbers for ADSR envelope generator. 
 
-Currently untested. It may not work!
+https://www.eddybergman.com/2025/04/Kassutronic-precision-adsr.html
+
+Currently untested. It may not work!!!
